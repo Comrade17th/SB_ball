@@ -2,7 +2,7 @@
 
 study project
 
-demo_video: https://youtu.be/ox9F_dJmTHs
+demo_video:  https://youtu.be/XmBNLl9yR3M
 
 Features:
 - movement with rigidbody physics, jumping
